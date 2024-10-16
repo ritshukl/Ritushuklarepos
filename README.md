@@ -1,2 +1,3 @@
 # Ritushuklarepos
-This is my first git repository
+This is my first git repository.
+Author- Ritu Shukla
